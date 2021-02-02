@@ -145,3 +145,17 @@
 </body>
 
 </html>
+
+Init 
+for(i = 1; 1 <= 100; i++)
+{
+ if (i % 3 = 0) {
+  print("fizz")}
+ elif (i % 5 = 0){
+  print("Buzz")}
+ elif ((i % 5 = 0) && (i % 3 = 0)){
+  print("FizzBuzz")}
+ else{
+  print(i)}
+}
+end 
